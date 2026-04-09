@@ -36,6 +36,8 @@ This flexibility allows you to do things like: use accelerated coursework for ju
 
 [Crash Course](https://thecrashcourse.com) - Supplemental videos for multiple subjects; don't forget to be awesome.
 
+[The Daily Lesson](https://thedailylesson.com) - 5-minute daily editorial lessons spanning languages, history, science, and culture; CC-BY-4.0 licensed, no ads; good as a daily warm-up before deeper work.
+
 ## Language Arts
 
 ### Writing
@@ -183,6 +185,8 @@ see AIM Academy above - Great science options; guided labs are often included, u
 [Japanese Hiragana Mnemonics](https://www.tofugu.com/japanese/hiragana-mnemonics-chart/) - Lots of resources for learning Japanese language and culture on this Tofugu site.
 
 [Japanese Film Club](https://www.wtmacademy.com/course/japanese-film/) - Watching films with friends is a great way to pick up information about the culture; find these for any language.
+
+[The Daily Lesson](https://thedailylesson.com) - One 5-minute daily lesson per day in 47 languages, including the long tail (Swahili, Tagalog, Burmese); CC-BY-4.0 open courseware; no streaks or gamification.
 
 ## Life Skills
 
