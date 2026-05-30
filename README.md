@@ -64,8 +64,6 @@ This flexibility allows you to do things like: use accelerated coursework for ju
 
 [Poetry Foundation](https://www.poetryfoundation.org) - Variety of subscriptions to supplement lit class.
 
-[Lit2Go](https://etc.usf.edu/lit2go/) - There are lots of ways to get public domain works; this is a nicely presented one.
-
 [How to Read Literature Like a Professor](https://mseffie.com/assignments/professor/professor.html) - Study this one the summer before 9th grade and the rest of your English classes will be easier.
 
 ## Science
