@@ -16,7 +16,7 @@ This flexibility allows you to do things like: use accelerated coursework for ju
 - [World Languages](#world-languages)
 - [Life Skills](#life-skills)
 - [Other Resources](#other-resources)
-- [And don't forget](#and-dont-forget)
+- [And Don't Forget](#and-dont-forget)
 
 ## Cross-curricular
 
