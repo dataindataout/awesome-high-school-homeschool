@@ -1,6 +1,6 @@
 # Awesome High School Homeschool [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Resources for homeschooling high school.
+Homeschool at the high school level.
 
 High school is the _best_ time to homeschool. And just because your learner has moved into high school doesn't mean they have to do seated lectures from textbooks. While college-bound students will likely want 4 years of the core literature, math, history, science, and world languages courses, homeschoolers have flexibility to define the particular courses within those cores.
 
