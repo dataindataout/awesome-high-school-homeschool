@@ -94,7 +94,7 @@ see AIM Academy above - Great science options; guided labs are often included, u
 
 [Cytosis](https://www.geniusgames.org/products/cytosis-a-cell-biology-game-a-science-accurate-strategy-board-game-about-building-proteins-carbohydrates-enzymes-organelles-membranes) - Another game, about cell biology.
 
-[The Laws Guide to Nature Drawing and Journaling](https://johnmuirlaws.com/store/the-laws-guide-to-nature-drawing-and-journaling/) - Drawing makes you really *look* at details.
+[The Laws Guide to Nature Drawing and Journaling](https://johnmuirlaws.com/store/the-laws-guide-to-nature-drawing-and-journaling/) - Drawing makes you really look at details.
 
 ### Chemistry
 
