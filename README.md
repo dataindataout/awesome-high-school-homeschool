@@ -132,7 +132,7 @@ see AIM Academy above - Great science options; guided labs are often included, u
 
 [Origami Heaven](http://www.origamiheaven.com/education.htm) - Origami is the ultimate math manipulative.
 
-[Tesselations](http://mathengaged.org/resources/activities/art-projects/tessellations/) - Basic to advanced; these kinds of lessons spark math curiosity.
+[Tessellations](http://mathengaged.org/resources/activities/art-projects/tessellations/) - Basic to advanced; these kinds of lessons spark math curiosity.
 
 ## Social Studies
 
