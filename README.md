@@ -204,6 +204,8 @@ see AIM Academy above - Great science options; guided labs are often included, u
 
 [Bookshare](https://www.bookshare.org) - Downloadable epubs and other formats for learners with visual disabilities.
 
+[The GPA Calculator](https://thegpacalculator.com) - Free high school GPA calculator, weighted and unweighted, on a 4.0 scale; handy when building a homeschool transcript.
+
 ## And Don't Forget
 
 Your public library - I bet you don't know half the resources they have available.
