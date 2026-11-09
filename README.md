@@ -114,6 +114,8 @@ see AIM Academy above - Great science options; guided labs are often included, u
 
 [Slooh](https://www.slooh.com) - Control real telescopes to learn astronomy.
 
+[Space Atlas](https://spaceatlasedu.org/) - Moon-phase, Earth-season and cosmic-scale models for parent- or teacher-guided learning. Uses Google Analytics 4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
+
 [Physics the Waldorf Way](https://www.waldorfpublications.org/products/physics-the-waldorf-way-grades-6-8) - This is a middle school guide, but it's a great source for hands-on physics demonstrations.
 
 ### Environmental Science
